@@ -8,7 +8,7 @@
 
 ### 2 - Educação
 
-Bachelor's Degree in Data Science - [UNIFESP](https://www.ufms.br//) (June, 2022 - Present)
+Bachelor's Degree in Data Science - [UFMS](https://www.ufms.br//) (June, 2022 - Present)
 
 ### 3 - Experiência
 
