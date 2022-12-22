@@ -9,7 +9,7 @@
 
 ### Educação
 
-Bachelor's Degree in Computer Engineering - [Uniamerica](https://uniamerica.br/) (Abril, 2022 - Atual)
+Bachelor's Degree in Computer Engineering - [Uniamerica](https://uniamerica.br/) (Abril, 2022 - Atual)<br>
 Bachelor's Degree in Data Science - [UFMS](https://www.ufms.br//) (Junho, 2022 - Atual)
 
 ### Sobre
